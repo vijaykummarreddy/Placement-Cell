@@ -4,7 +4,7 @@
 ### It is built on JavaScript, NodeJs, ExpressJs, MongoDB, and EJS.
 
 
-### Hosted Link: [Placement Cell](http://ec2-44-204-180-25.compute-1.amazonaws.com/)
+
 
 ### Screenshots
 
